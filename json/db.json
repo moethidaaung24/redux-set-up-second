@@ -1,0 +1,28 @@
+{
+    "users":[
+        {
+            "username":"mg mg",
+            "phone":"01xxxxxx"
+        },
+        {
+            "username":"ag ag",
+            "phone":"02xxxxxx"
+        },
+        {
+            "username":"bg bg",
+            "phone":"03xxxxxx"
+        },
+        {
+            "username":"cg cg",
+            "phone":"04xxxxxx"
+        },
+        {
+            "username":"mg mg",
+            "phone":"01xxxxxx"
+        },
+        {
+            "username":"fg fg",
+            "phone":"05xxxxxx"
+        }
+    ]
+}
